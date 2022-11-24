@@ -1,7 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-*{margin:0; padding:0; list-style-type:none; text-decoration:none;}
-html{height:100%;}
-body{background:url(../images/bg.jpg);width:640px;margin: auto; font-family:Calibri, Helvetica, Arial, MS Pgothic, "Hiragino Kaku Gothic", Osaka, sans-serif;}
-.top{margin-top: 10px;text-align: center;}
-.main{width:640px;float: left; margin:150px auto; color: rgba(0,0,0,1);font-size:50px;text-align: center;}
