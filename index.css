@@ -6,7 +6,7 @@ body{font:normal 62.5% Arial,Helvetica,sans-serif;color: rgba(0,0,0,1.00);}
 a:link{color: rgba(0,0,0,1.00);}
 a:hover{color: rgba(24,127,196,1);text-decoration:underline;}
 a:visited{color: rgba(0,0,0,1.00);}
-.top{width: 96%;display: inline-block;margin-left:2%; }
+.top{width: 96%;display: inline-block;margin:1% 0 1% 2%; }
 .top img{float: left;width: 22em;}
 .top li{float: right;font-size: 2em;margin: 1em 0 0 1em;}
 .top a{padding-left: 1.5em;}
